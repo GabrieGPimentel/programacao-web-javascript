@@ -1,3 +1,8 @@
-document.getElementById("texto").innerHTML="Meu primeiro texto em <b>js<b>!";
-console.log("Oi teste console.log");
+// document.getElementById("texto").innerHTML="Primeiro texto em <b>JS<b>!";
+// console.log("texto de teste")
+var a = 1;
+var b = 5;
+var c = a + b;
+console.log(c);
+
 
